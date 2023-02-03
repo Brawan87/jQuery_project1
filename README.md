@@ -4,9 +4,9 @@
 
 <div align="center">
   <h3> This project use: </h3>
-  - HTML
-  - CSS 
-  - JavaScript
-  - jQuery
+  1- HTML
+  2- CSS 
+  3- JavaScript
+  4- jQuery
 
 </div>
